@@ -1,0 +1,6 @@
+[submodule "testchoi"]
+	path = testchoi
+	url = https://github.com/ThuyHanh3010/testchoi.git
+[submodule "src/library"]
+	path = src/library
+	url = https://github.com/ThuyHanh3010/testchoi.git
